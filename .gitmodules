@@ -4,3 +4,6 @@
 [submodule "components/qmd"]
 	path = components/qmd
 	url = https://github.com/shvass/qmd.git
+[submodule "components/urosHandler"]
+	path = components/urosHandler
+	url = https://github.com/gawar55/urosHandler.git

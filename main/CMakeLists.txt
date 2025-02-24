@@ -1,3 +1,3 @@
-idf_component_register(SRCS "shoot.cpp" "main.cpp"
+idf_component_register(SRCS "sub.cpp" "main.cpp"
                     INCLUDE_DIRS "include"
-                    REQUIRES qmd)
+                    REQUIRES urosHandler qmd)
